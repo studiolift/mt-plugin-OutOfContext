@@ -1,0 +1,9 @@
+name: Out Of Context
+id: OutOfContext
+author_link: http://studiolift.com
+author_name: Lift
+description: This plugin defines blocks of MT code to be taken out of the current context
+version: 1.0
+tags:
+  block:
+    OutOfContext: $OutOfContext::OutOfContext::Tags::OutOfContext
